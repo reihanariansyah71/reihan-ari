@@ -4,5 +4,6 @@ rencana belajar kedepan
 -backend
 *mempelajari bahasa pemograman javascript
 *mempelajari bahasa pemograman php
+*mempelajari framework javascript
 -database
 *mempelajari mysql
