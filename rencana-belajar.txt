@@ -1,3 +1,5 @@
 rencana belajar kedepan
 -ui/ux
+*mempelajari figma
 -backend
+*mempelajari bahasa pemograman javascript
