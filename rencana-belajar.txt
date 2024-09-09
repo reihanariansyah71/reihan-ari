@@ -4,5 +4,7 @@ rencana belajar kedepan
 -mempelajari adobexd
 -backend
 *mempelajari bahasa pemograman javascript
+*mempelajari framework javascript
+-database
+*mempelajari mysql
 *mempelajari bahasa pemogrman php
-
