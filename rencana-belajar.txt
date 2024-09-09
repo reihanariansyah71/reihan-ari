@@ -1,6 +1,8 @@
 rencana belajar kedepan
 -ui/ux
 *mempelajari figma
+-mempelajari adobexd
 -backend
 *mempelajari bahasa pemograman javascript
--database
+*mempelajari bahasa pemogrman php
+
