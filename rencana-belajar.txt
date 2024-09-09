@@ -3,3 +3,4 @@ rencana belajar kedepan
 *mempelajari figma
 -backend
 *mempelajari bahasa pemograman javascript
+-database
